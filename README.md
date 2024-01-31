@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ![demo](https://raw.githubusercontent.com/akhil-maddukuri/akhil-maddukuri.github.io/main/src/images/demo.png)
+=======
+
+![demo](https://raw.githubusercontent.com/akhil-maddukuri/akhil-maddukuri.github.io/main/src/images/demo.png)
+
+> > > > > > > refs/remotes/origin/main
 
 ## 🛠 Installation & Set Up
 
