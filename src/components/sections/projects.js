@@ -264,6 +264,7 @@ const Projects = () => {
   };
 
   return (
+    /*  
     <StyledProjectsSection>
       <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
 
@@ -306,6 +307,9 @@ const Projects = () => {
         Show {showMore ? 'Less' : 'More'}
       </button>
     </StyledProjectsSection>
+    */
+    null
+    //make this non-null when showing projects
   );
 };
 
