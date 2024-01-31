@@ -1,0 +1,1 @@
+{"data":{"projects":{"edges":[{"node":{"frontmatter":{"title":"Google Keep Clone","tech":["Vue","Firebase"],"github":"https://github.com/bchiang7/google-keep-vue-firebase","external":"https://keep-vue.netlify.com/"},"html":"<p>A simple Google Keep clone built with Vue and Firebase.</p>"}}]}}}

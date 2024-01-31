@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-archive-js",
+    "path": "/archive/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2019-11-12","title":"Moms Demand Action Mobile App","tech":["NativeScript Vue","iOS","Android"],"github":"","external":"https://www.upstatement.com/work/moms-demand-action/","android":"https://play.google.com/store/apps/details?id=com.momsdemandaction.app","company":"Upstatement"},"html":""}},{"node":{"frontmatter":{"date":"2018-12-29","title":"Google Keep Clone","tech":["Vue","Firebase"],"github":"https://github.com/bchiang7/google-keep-vue-firebase","external":"https://keep-vue.netlify.com/","android":null,"company":null},"html":"<p>A simple Google Keep clone built with Vue and Firebase.</p>"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2009693873","3539500889","3825832676","4162897811"]}
